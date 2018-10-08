@@ -1,0 +1,5 @@
+redis==2.10.6
+psutil==5.4.6
+aiohttp==3.3.2
+lxml==4.2.3
+requests==2.19.1
